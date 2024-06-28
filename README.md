@@ -82,3 +82,6 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
+ 
+```bash
+pip install boto3 pandas mysql-connector-python
