@@ -84,4 +84,4 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
 
  
 ```bash
-pip install boto3 pandas mysql-connector-python
+2 . pip install boto3 pandas mysql-connector-python
