@@ -6,15 +6,15 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
 ## Project Structure
 
 1. etl_project
-   │
+   
 2. lambda
    └── lambda_function.py
-   │
+   
 3.  ec2
    └── setup_ec2.sql
-   │
+   
 4.  reports
    └── generate_report.py
-   │
+   
    └──  requirements.txt
    └── README.md
