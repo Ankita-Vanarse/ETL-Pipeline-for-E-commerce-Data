@@ -1,0 +1,6 @@
+CREATE USER 'ankita'@'%' IDENTIFIED BY '12345';
+GRANT ALL PRIVILEGES ON *.* TO 'ankita'@'%' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+
+
+ec2-35.154.156.229.compute-1.amazonaws.com
