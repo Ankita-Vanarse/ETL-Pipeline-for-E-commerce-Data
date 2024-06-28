@@ -51,6 +51,7 @@ def lambda_handler(event, context):
     conn.close()
 
     print("Data inserted successfully")
+    print('All done')
 
     return {
         'statusCode': 200,
