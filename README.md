@@ -19,6 +19,6 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
 
      └── generate_report.py
    
-4.└──  requirements.txt
+ 4.└──  requirements.txt
    
-5.└── README.md
+ 5.└── README.md
