@@ -8,13 +8,17 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
 1. etl_project
    
 2. lambda
+
    └── lambda_function.py
    
-3.  ec2
+4.  ec2
+
    └── setup_ec2.sql
    
-4.  reports
+6.  reports
+
    └── generate_report.py
    
    └──  requirements.txt
+   
    └── README.md
