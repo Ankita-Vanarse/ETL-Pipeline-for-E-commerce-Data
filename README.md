@@ -13,12 +13,12 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process an
    
 4.  ec2
 
-   └── setup_ec2.sql
+     └── setup_ec2.sql
    
 6.  reports
 
-   └── generate_report.py
+     └── generate_report.py
    
-   └──  requirements.txt
+└──  requirements.txt
    
-   └── README.md
+└── README.md
