@@ -6,7 +6,7 @@ import mysql.connector
 def lambda_handler(event, context):
     # Process the CSV content
     df = pd.read_csv('Departments.csv')
-    print(df.head())
+
 
     # Database connection setup
     db_config = {
